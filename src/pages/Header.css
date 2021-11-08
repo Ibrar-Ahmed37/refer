@@ -1,0 +1,18 @@
+.heading
+{
+width: 391px;
+height: 39px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 39px;
+color: #1C1F37;
+}
+.head{
+    margin-top:25px;
+width: 1442px;
+height: 90px;
+background: #FFFFFF;
+margin-left: 319px;  /*modify here*/
+}

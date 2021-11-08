@@ -1,0 +1,69 @@
+.info
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 33px;
+margin-right:100px;
+color: #017EFA;
+
+}
+.images
+{
+width: 180px;
+height: 169px;
+margin:auto 0px;
+}
+.myCard1
+{
+    margin-left: 280px;
+
+}
+.myCard
+{
+    width: 219px;
+    
+height: 230px;
+background: #EAECFB;
+border: 1px solid #017EFA;
+box-sizing: border-box;
+border-radius: 8px;
+}
+.box{
+
+	width: 500px;
+    border: 2px solid #017EFA;
+    box-sizing: border-box;
+    border-radius: 11px;
+	height: 20px;
+    margin-left: 319px;
+	background-color: white;
+
+	border-radius: 11px;
+
+	display: flex;
+
+	align-items: center;
+
+	padding: 20px;
+
+}
+
+
+.box > input{
+
+	flex: 1;
+
+	height: 40px;
+
+	border: none;
+
+	outline: none;
+
+	font-size: 18px;
+
+	padding-left: 10px;
+
+
+}

@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+.formcss label
+{  
+    margin-bottom:15px;
+    height: 23px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #1C1F37;
+    
+}
+.img-css
+{
+    width: 51px;
+    height: 37px;
+    cursor: pointer;
+}
+.formcss{
+    display:block;
+    width:80%;
+    margin:0 auto;
+    margin-top:100px
+}
+.formcss input{
+    width: 302px;
+    height: 32px;
+    background: #FFFFFF;
+    border: 1px solid #017EFA;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+input:active
+{
+    background: #FFFFFF;
+    border: 1px solid #017EFA;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+.text
+{
+    
+    width: 991px;
+    height: 168px;
+    background: #FFFFFF;
+    border: 1px solid #017EFA;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+/* .one
+{
+    width: 124px;
+    left: 71px;
+    top: 218px;
+}
+.two
+{
+    width: 153px;
+    left: 443px;
+    top: 218px;
+}
+.three
+{   
+    width: 198px;
+    left: 775px;
+    top: 218px;
+}
+.four
+{
+    width: 97px;
+    left: 71px;
+    top: 307px;
+}
+.five
+{   
+    width: 125px;
+    left: 443px;
+    top: 307px;
+}
+.six
+{   
+    width: 195px;
+    left: 775px;
+    top: 307px;
+}
+.seven
+{   
+    width: 211px;
+    left: 71px;
+    top: 398px;
+}
+.eight
+{   
+    width: 127px;
+    left: 71px;
+    top: 636px;
+}
+.nine
+{   
+    width: 90px;
+    left: 520px;
+    top: 636px;
+    
+} */
